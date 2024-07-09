@@ -1,3 +1,10 @@
+/**
+ * Calculates the median of an array of numbers.
+ *
+ * @param {number[]} numbers - Array of numbers
+ * @returns {number} The median of the numbers
+ */
+
 export default function median(numbers) {
     numbers.sort((a, b) => a - b);
     const mid = Math.floor(numbers.length / 2);
