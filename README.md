@@ -1,3 +1,5 @@
+---
+
 # Simple Statistics
 
 A simple library for common statistical calculations.
@@ -12,3 +14,10 @@ You can install this library using npm:
 
 ```sh
 npm install os-calc-21eaf4
+```
+
+## License
+
+MIT License
+
+---
