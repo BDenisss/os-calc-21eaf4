@@ -21,3 +21,7 @@ npm install os-calc-21eaf4
 MIT License
 
 ---
+
+Yanis Bekrarchouche
+Denis Bucspun
+Antoine Bayssac
